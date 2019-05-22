@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :article3s
   resources :users
   resources :articles2s
   resources :articles
