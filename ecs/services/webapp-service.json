@@ -6,7 +6,7 @@
         {
             "loadBalancerName": "webapp-load-balancer",
             "containerName": "webapp",
-            "containerPort": 80
+            "containerPort": 3000
         }
     ],
     "desiredCount": 3,
