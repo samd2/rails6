@@ -1,7 +1,7 @@
 {
     "cluster": "ecs-cluster",
     "serviceName": "webapp-service",
-    "taskDefinition": "webapp:1",
+    "taskDefinition": "webapp:6",
     "loadBalancers": [
         {
             "loadBalancerName": "webapp-load-balancer",

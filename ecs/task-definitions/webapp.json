@@ -18,7 +18,11 @@
                 {
                     "name": "PASSENGER_APP_ENV",
                     "value": "production"
-                }
+                },
+		      {
+        "name": "DATABASE_URL",
+        "value": "postgresql://deploy:myawesomepasswordproduction@webapp-postgres.ca36gj7hihxo.ca-central-1.rds.amazonaws.com:5432/rails_production?encoding=utf8&pool=40"
+      }
             ]
         }
     ]
